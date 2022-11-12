@@ -11,5 +11,5 @@ Now my goal is to be capable of turning this project and others an reallity!
 If you liked my profile feel free to follow (I will be following back, promise!) or just send me an invite on my social network's. I'm looking foward to make real conections on this developer journey ☆
 
 📋 **Languages**: Java, JavaScript, CSS3, HTML5 <br>
-💻 **IDE/Editors**: IntelliJ, VSCode <br>
+💻 **IDE/Editors**: IntelliJ, VSCode, Figma <br>
 💾 **Databases**: Postgre <br>
