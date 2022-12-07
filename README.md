@@ -1,6 +1,6 @@
 <h3> Hi reader! </h3>
 
-I'm Mariana (Mari), a Brazilian Bachelor in Public Administration with ≅ 5 years of experience at governmental organizations, currently studying to become a Web Development Analyst. Nice too meet you!
+I'm Mariana, a Brazilian Bachelor in Public Administration with ≅ 5 years of experience at governmental organizations, currently studying to become a Web Development Analyst. Nice too meet you!
 
 My interest in programming started growing at the end of graduation, when one teacher had me and my classmates to present app prototypes as a propose of intervention to public problems of our choice. 
 
